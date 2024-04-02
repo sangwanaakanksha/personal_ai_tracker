@@ -1,4 +1,4 @@
-# personal_AI_tracker
+# personal_ai_tracker
 
 Welcome to the Personal AI Tracker project! This tool leverages voice recordings, speech-to-text technology, and capabilities of Claude LLM to help you track and analyze your daily food intake, mood, and exercise routines.
 
