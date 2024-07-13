@@ -43,14 +43,3 @@ To scale the Personal AI Tracker project, following things to be considered,
 5. **User Management**: Develop user authentication and authorization mechanisms to support multiple users and ensure data privacy.
 6. **Integration**: Explore integrations with popular fitness tracking apps, nutrition databases, and other relevant services to enhance the functionality and value of the tool.
 
-## Getting Started
-
-To get started with the Personal AI Tracker project, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/personal_ai_tracker.git`
-2. Set up the required dependencies and API credentials (instructions provided in the repository).
-3. Configure the necessary Google Cloud Storage buckets and upload your voice recordings.
-4. Run the project script to process the voice recordings and generate insights.
-5. Explore the generated transcriptions and processed data in the designated output files.
-
-Feel free to contribute to the project, provide feedback, and share ideas for improvement.
